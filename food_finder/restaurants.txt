@@ -1,0 +1,3 @@
+Hot Tamale	Mexican	£10
+La Belle	French	£20
+Coffee Co	Coffee	£5
